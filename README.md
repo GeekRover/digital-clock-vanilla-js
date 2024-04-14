@@ -20,3 +20,4 @@ Updates in real-time to reflect the current time.
 </ul>
 
 <h1>Usage</h1>
+url:https://geekrover.github.io/digital-clock-vanilla-js/
