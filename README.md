@@ -1,4 +1,4 @@
-<h1>Digital Clock<h1>
+<h1>Digital Clock</h1>
 This is a simple digital clock created using HTML, CSS, and JavaScript. It displays the current time in hours, minutes, and seconds, updating in real-time.
 
 <h1>Features</h1>
